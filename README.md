@@ -2,7 +2,7 @@
 
 No hace falta descargar el proyecto para visualizarlo, se puede acceder desde el siguiente link.
 
-[***LINK DEL PROYECTO***](https://brilliant-klepon-5fa73a.netlify.app/)
+[***LINK DEL PROYECTO***](https://poetic-sawine-25bebd.netlify.app/)
 
 ## Tecnologías utilizadas
 
